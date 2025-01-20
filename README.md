@@ -82,8 +82,22 @@ Customize the theme further to suit your needs:
 Here are some screenshots:
 
 Background
+
 ![Preview](screenshots/screen.jpg)
-![Status Bar](screenshots/screen.jpg)
+
+Login Menu
+
+![login](screenshots/power.jpg)
+
+Rofi Theme
+
+![login](screenshots/rofi.jpg)
+
+Apps Menu
+
+![login](screenshots/apps.jpg)
+
+
 
 ## Contributions
 
