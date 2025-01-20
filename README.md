@@ -79,11 +79,12 @@ Customize the theme further to suit your needs:
 
 ## Screenshots
 
-Add screenshots here to showcase your theme. Use the following Markdown syntax to include images:
+Here are some screenshots:
 
+Background
 ```markdown
-![Preview](screenshots/preview1.png)
-![Status Bar](screenshots/preview2.png)
+![Preview](screenshots/screen.jpg)
+![Status Bar](screenshots/screen.jpg)
 ```
 
 ## Contributions
