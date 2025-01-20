@@ -82,10 +82,8 @@ Customize the theme further to suit your needs:
 Here are some screenshots:
 
 Background
-```markdown
 ![Preview](screenshots/screen.jpg)
 ![Status Bar](screenshots/screen.jpg)
-```
 
 ## Contributions
 
