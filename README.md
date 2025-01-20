@@ -83,23 +83,23 @@ Here are some screenshots:
 
 Background
 
-[Preview](screenshots/screen.jpg)
+![Preview](screenshots/screen.jpg)
 
 Login Menu
 
-[Preview](screenshots/power.jpg)
+![Preview](screenshots/power.jpg)
 
 Rofi Theme
 
-[Preview](screenshots/rofi.jpg)
+![Preview](screenshots/rofi.jpg)
 
 Apps Menu
 
-[Preview](screenshots/apps.jpg)
+![Preview](screenshots/apps.jpg)
 
 Gaps config
 
-[Preview](screenshots/gaps.jpg)
+![Preview](screenshots/gaps.jpg)
 
 
 ## Contributions
