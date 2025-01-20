@@ -87,16 +87,19 @@ Background
 
 Login Menu
 
-![login](screenshots/power.jpg)
+![Preview](screenshots/power.jpg)
 
 Rofi Theme
 
-![login](screenshots/rofi.jpg)
+![Preview](screenshots/rofi.jpg)
 
 Apps Menu
 
-![login](screenshots/apps.jpg)
+![Preview](screenshots/apps.jpg)
 
+Gaps config
+
+![Preview](screenshots/gaps.jpg)
 
 
 ## Contributions
