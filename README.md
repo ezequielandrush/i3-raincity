@@ -108,7 +108,7 @@ Feel free to submit issues or pull requests to improve the theme. Contributions 
 
 ## License
 
-This theme is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This theme is licensed under the MIT License.
 
 ---
 
